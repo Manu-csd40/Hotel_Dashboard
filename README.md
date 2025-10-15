@@ -20,7 +20,7 @@ Tools Used: Tableau, Excel
 <a href="https://public.tableau.com/app/profile/mutcherla.manogna.naga.sri/viz/Hoteldata_17481647226060/Dashboard1">View Dashboard </a>
 
 ## Dashboard
-![Screenshot (495)]("https://github.com/user-attachments/assets/40b9926b-f394-4ad8-92a7-2abfe28a9d6b)
+![Screenshot]("https://github.com/user-attachments/assets/40b9926b-f394-4ad8-92a7-2abfe28a9d6b)
 
 
 ## Key Features
