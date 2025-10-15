@@ -29,3 +29,12 @@ Tools Used: Tableau, Excel
 - Identified peak seasons contributing most to revenue.
 - Revealed relationships between room pricing, booking patterns, and customer segments.
 - Provided an interactive dashboard for continuous business monitoring and decision-making.
+
+## Business Impact
+- Enables management to track performance in real time and identify areas for improvement.
+- Supports strategic decisions in pricing, promotions, staffing, and resource allocation.
+
+## My Contributions
+- End-to-end development of the dashboard from raw data to interactive visualizations
+- Implemented best practices in Tableau for layout, usability, and storytelling
+- Derived insights to help management make data-driven decisions
