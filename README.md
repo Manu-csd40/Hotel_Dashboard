@@ -1,4 +1,5 @@
-## 🏨 Hotel Data Analytics Dashboard
+# 🏨 Hotel Data Analytics Dashboard
+This is an interactive Tableau dashboard designed to analyze hotel business data and provide actionable insights for decision-making.
 Domain: Data Visualization | Business Intelligence | Hospitality Analytics
 Tools Used: Tableau, Excel
 
