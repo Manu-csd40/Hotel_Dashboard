@@ -10,13 +10,18 @@ Tools Used: Tableau, Excel
 ## Dataset Used
 - <a href="https://github.com/Manu-csd40/Hotel_Dashboard/blob/main/hotel_booking.csv">Dataset </a>
 
-## Data Collection: Gathered hotel booking and operational data from multiple sources
-- Data Cleaning & Preparation: Handled missing values, standardized formats, and structured the dataset for analysis
-- Exploratory Data Analysis (EDA): Identified trends, outliers, and key metrics to include in the dashboard
-- Dashboard Design in Tableau: Created charts, graphs, and maps to visualize metrics
-- Added interactive filters, parameters, and tooltips for better user experience
-- Insights & Reporting: Interpreted visualizations to provide actionable recommendations for hotel operations and revenue optimization
+## Process
+- Gathered hotel booking and operational data from multiple sources.
+- Handled missing values, standardized formats, and structured the dataset for analysis.
+- Identified trends, outliers, and key metrics to include in the dashboard.
+- Created charts, graphs, and maps to visualize metrics.
+- Added interactive filters, parameters, and tooltips for better user experience.
+- Insights & Reporting: Interpreted visualizations to provide actionable recommendations for hotel operations and revenue optimization.
 <a href="https://public.tableau.com/app/profile/mutcherla.manogna.naga.sri/viz/Hoteldata_17481647226060/Dashboard1">View Dashboard </a>
+
+## Dashboard
+<img width="1366" height="768" alt="Tableau Snip1" src="https://github.com/user-attachments/assets/1a877994-b46e-40dc-9958-eb054edf6fb9" />
+
 ## Key Features
 - Visualized booking and revenue data across multiple hotels, locations, and time periods.
 - Built dynamic filters for hotel type, room category, and booking channel to enable deep exploration.
